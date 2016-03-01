@@ -6,4 +6,4 @@ Hello World
 -- team1-dev: do great thing here
 -- team1-dev: more feature anyway
 -- team2-dev2: new update
--- team2-dev2: bug fix
+-- team2-dev2: bug 1 fix
