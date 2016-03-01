@@ -1,5 +1,8 @@
 Hello World
 
 -- team1: new feature
+<<<<<<< HEAD
 -- team2: another feature
+=======
 -- team1: update feature
+>>>>>>> e9d487827e1759f2cf3f2adff114996d8376cc4b
